@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper background -->
+  <rect x="8" y="8" width="48" height="48" rx="4" fill="#FFF0E0" stroke="#FFC66D" stroke-width="2"/>
+  
+  <!-- Checklist items -->
+  <circle cx="18" cy="20" r="4" fill="#4CAF50"/>
+  <circle cx="18" cy="32" r="4" fill="#4CAF50"/>
+  <circle cx="18" cy="44" r="4" fill="#4CAF50"/>
+  
+  <!-- Lines for text -->
+  <rect x="26" y="18" width="28" height="4" rx="1" fill="#333"/>
+  <rect x="26" y="30" width="28" height="4" rx="1" fill="#333"/>
+  <rect x="26" y="42" width="28" height="4" rx="1" fill="#333"/>
+  
+  <!-- Pencil -->
+  <rect x="44" y="50" width="12" height="4" rx="1" fill="#FFC107" transform="rotate(-45 44 50)"/>
+  <polygon points="56,48 58,50 54,52 52,50" fill="#FF9800"/>
+</svg>
